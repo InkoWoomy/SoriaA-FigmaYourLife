@@ -1,5 +1,12 @@
-# "Figma Your Life" assignment
+Alexander Soria
 
-Mind your volume, as this webpage uses music (Ripped from KHInsider)
+Last Date Revised: 10/25/23
 
-Figma layout: https://www.figma.com/file/xZnSkQRiwjm5pxRIh6wqpQ/Figma-Your-Life---Design?type=design&node-id=0%3A1&mode=design&t=LjXCm4WZNqGWwSrt-1
+Figma Your Life
+
+This site has some information about me and what I like to do in my life, as well as what I've accomplished so far.
+
+Peer Reviewer:
+Review:
+
+# Soria,A - Figma Your LIfe.zip
