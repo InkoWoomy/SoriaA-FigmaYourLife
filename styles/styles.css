@@ -20,56 +20,68 @@ body{
 .navbar-brand{
     font-family: 'Dome';
     color: white;
+    font-size: 60px;
 }
 
 .nav-link{
     font-family: 'Dome';
     color: aliceblue;
+    font-size: 40px;
+    
 }
 
 .active{
     color: black;
 }
 .title{
+    background-color: rgb(59, 134, 148);
     font-size: 160%;
     text-align: center;
-    color: rgb(174, 229, 255);
+    color: rgb(179, 250, 255);
 }
 
 .blue-div-left {
     background-color:rgb(59, 67, 71);
     width: auto;
-    height: 580px;
+    height: 900px;
     padding: 10px;
     margin: 20px;
-    margin-right: 25%;
+    margin-right: 30%;
 
     font-family: 'Splatfont';
-    font-size: 32px;
+    font-size: 48px;
     color: white;
+    
 }
 
 .blue-div-right {
     background-color:rgb(59, 67, 71);
     width: auto;
-    height: 580px;
+    height: 900px;
     padding: 10px;
     margin: 20px;
-    margin-left: 25%;
+    margin-left: 36%;
 
     font-family: 'Splatfont';
-    font-size: 32px;
+    font-size: 48px;
     color: white;
+    
 }
 
 .icon{
     margin: 4px;
-    max-width:20px;
+    max-width:60px;
     height: auto;
 }
 
 .photo-right{
     width: auto;
-    height: 580px;
-    margin-right: 13px;
+    height: 900px;
+    margin-right: 28px;
+}
+
+.photo-left{
+    width: auto;
+    height: 900px;
+    margin-left: 28px;
 }
