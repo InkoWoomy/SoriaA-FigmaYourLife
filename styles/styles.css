@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Dome';
+    src: url('../assets/TROUBLEBENEATHTHEDOME.ttf');
+}
+
+@font-face {
+    font-family: 'Splatfont';
+    src: url('../assets/SPLATFONT2.ttf');
+}
+
+body{
+    background-color: rgb(147, 183, 203);
+}
+
+.container-fluid{
+    
+    background-color: rgb(59, 100, 122);
+}
+
+.navbar-brand{
+    font-family: 'Dome';
+    color: white;
+}
+
+.nav-link{
+    font-family: 'Dome';
+    color: aliceblue;
+}
+
+.active{
+    color: black;
+}
+.title{
+    font-size: 160%;
+    text-align: center;
+    color: rgb(174, 229, 255);
+}
+
+.blue-div-left {
+    background-color:rgb(59, 67, 71);
+    width: auto;
+    height: 580px;
+    padding: 10px;
+    margin: 20px;
+    margin-right: 25%;
+
+    font-family: 'Splatfont';
+    font-size: 32px;
+    color: white;
+}
+
+.blue-div-right {
+    background-color:rgb(59, 67, 71);
+    width: auto;
+    height: 580px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 25%;
+
+    font-family: 'Splatfont';
+    font-size: 32px;
+    color: white;
+}
+
+.icon{
+    margin: 4px;
+    max-width:20px;
+    height: auto;
+}
+
+.photo-right{
+    width: auto;
+    height: 580px;
+    margin-right: 13px;
+}
